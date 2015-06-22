@@ -1,0 +1,3 @@
+This is a collection of curses, swear words, cuss words; however you refer to them is your choice. Swearing gets a bad rap, but it is an inextricable part of our daily, cultural vocabulary. It also might have some merit, or be an indicator of an individual's [cognitive capacity][cc]. So, don't hold back, and clone this fucking repo. 
+
+[cc]: http://www.psychologicalscience.org/index.php/publications/observer/2012/may-june-12/the-science-of-swearing.html
